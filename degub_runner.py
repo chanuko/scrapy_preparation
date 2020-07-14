@@ -9,7 +9,7 @@ try:
         [
             'scrapy',
             'crawl',
-            'samplesite'',
+            'example',
             #'-o',
             #'out.csv',
         ]
